@@ -103,3 +103,7 @@ const handleDetails = (data) => {
 
 loadNewsByCategory("01");
 loadAllCategory();
+
+
+
+
